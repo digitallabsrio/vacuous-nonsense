@@ -1,0 +1,2 @@
+docker container exec web ls webapp
+docker container exec web2 ls webapp

@@ -1,0 +1,2 @@
+cd /dk/cody.coder
+ano storelist.htm

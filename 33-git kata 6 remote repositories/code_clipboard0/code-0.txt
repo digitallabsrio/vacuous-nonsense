@@ -1,0 +1,2 @@
+cd /home/devops/dk/web-storelist  
+ls -A

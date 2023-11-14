@@ -1,0 +1,3 @@
+git status
+git commit -a -m "Added another item"
+git push origin master #(username: cody.coder | password: katas)

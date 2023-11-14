@@ -1,0 +1,3 @@
+git config user.email ken@thecoders.com
+git config user.name ken.coder
+git config credential.helper store

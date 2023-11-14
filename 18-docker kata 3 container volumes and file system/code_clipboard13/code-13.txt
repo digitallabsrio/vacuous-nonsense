@@ -1,0 +1,1 @@
+docker container exec web3 ls /hostmounted

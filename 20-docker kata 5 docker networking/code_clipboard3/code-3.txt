@@ -1,0 +1,4 @@
+docker container exec web1 apt update
+docker container exec web1 apt install -y iputils-ping
+docker container exec web2 apt update
+docker container exec web2 apt install -y iputils-ping

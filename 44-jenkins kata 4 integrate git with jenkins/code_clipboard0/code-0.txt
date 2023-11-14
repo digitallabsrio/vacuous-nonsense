@@ -1,0 +1,2 @@
+cd /home/devops/dk/cody.coder
+nano storelist.htm

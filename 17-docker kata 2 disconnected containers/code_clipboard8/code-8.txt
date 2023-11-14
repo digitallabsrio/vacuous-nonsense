@@ -1,0 +1,3 @@
+docker container exec -it webserver bash
+ls
+exit

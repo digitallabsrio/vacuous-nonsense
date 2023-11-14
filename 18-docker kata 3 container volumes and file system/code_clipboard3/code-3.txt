@@ -1,0 +1,3 @@
+docker container run -it ubuntu bash
+ls
+exit

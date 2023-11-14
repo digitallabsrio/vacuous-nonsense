@@ -1,0 +1,1 @@
+docker container run -d --name web3 -v $PWD/dockervolume:/hostmounted nginx

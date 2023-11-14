@@ -1,0 +1,2 @@
+git config user.email 'devops@katas.com'  
+git config user.name 'devops'

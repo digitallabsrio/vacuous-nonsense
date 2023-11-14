@@ -1,0 +1,2 @@
+docker container rm -f qa-storelist || true
+docker container run -d -p 8002:80 --net=storelist-net --ip=172.20.0.15 --name qa-storelist ed-6091404232622080.educative.run/dk/storelist

@@ -1,0 +1,1 @@
+docker container run -d --name web -v=myVolume:/webapp nginx

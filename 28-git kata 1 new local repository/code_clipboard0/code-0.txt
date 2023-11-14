@@ -1,0 +1,3 @@
+cd ~/dk/storelist  
+nano storelist.txt 
+ls

@@ -1,0 +1,1 @@
+docker container exec web /bin/sh -c "echo 'some text' > webapp/file1.txt"

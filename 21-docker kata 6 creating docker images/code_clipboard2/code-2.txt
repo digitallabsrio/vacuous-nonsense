@@ -1,0 +1,1 @@
+docker container cp index.html web:/usr/share/nginx/html/index.html

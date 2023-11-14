@@ -1,0 +1,1 @@
+docker container exec web1 ping -w3 web2

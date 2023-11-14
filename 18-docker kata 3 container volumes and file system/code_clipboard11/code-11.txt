@@ -1,0 +1,6 @@
+mkdir dockervolume
+cd dockervolume
+echo file1text > file1.txt
+echo file2text > file2.txt
+ls
+cd ..

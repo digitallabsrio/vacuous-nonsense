@@ -1,0 +1,1 @@
+git remote add origin $EDUCATIVE_LIVE_VM_URL:3000/devops/web-storelist

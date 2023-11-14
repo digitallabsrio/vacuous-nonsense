@@ -1,0 +1,2 @@
+cd ken_fork
+nano storelist.htm

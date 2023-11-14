@@ -1,0 +1,2 @@
+docker container exec web1 ping -w3 $(docker inspect -f '{{ .NetworkSettings.IPAddress}}' web2)
+docker container exec web2 ping -w3 $(docker inspect -f '{{ .NetworkSettings.IPAddress}}' web1)

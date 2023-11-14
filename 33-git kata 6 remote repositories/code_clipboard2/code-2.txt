@@ -1,0 +1,2 @@
+git config user.email devops@devopskatas.com
+git config user.name devops

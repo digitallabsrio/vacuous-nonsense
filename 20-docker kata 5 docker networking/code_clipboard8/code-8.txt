@@ -1,0 +1,2 @@
+docker container run -d --net=mynet --name web1 nginx
+docker container run -d --net=mynet --name web2 nginx

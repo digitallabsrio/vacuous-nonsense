@@ -1,0 +1,2 @@
+docker inspect -f '{{ .NetworkSettings.IPAddress}}' web1
+docker inspect -f '{{ .NetworkSettings.IPAddress}}' web2

@@ -1,0 +1,2 @@
+cd ken.coder
+ls -A

@@ -1,0 +1,4 @@
+ls
+echo "file1text" > file1.txt
+ls
+exit

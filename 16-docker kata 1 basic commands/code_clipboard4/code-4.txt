@@ -1,0 +1,1 @@
+docker container run --name my_container hello-world

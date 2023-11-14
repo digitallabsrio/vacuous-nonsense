@@ -1,0 +1,1 @@
+nano firstkata.txt

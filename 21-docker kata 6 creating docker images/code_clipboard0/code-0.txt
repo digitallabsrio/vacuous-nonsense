@@ -1,0 +1,4 @@
+mkdir dockerimage
+cd dockerimage
+cp ../index.html .
+ls
